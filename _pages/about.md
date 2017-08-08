@@ -49,17 +49,17 @@ GIS Intern: Sep 2013 - Jul 2014
 
 ## <i class="fa fa-flask"></i> | Research
 
-### National Park Service
+### USC Biogeography & National Park Service
 Magellan Scholar Research Grant: Apr 2016 - April 2017
 > Biogeography research in Congaree National Park using a remotely operated vehicle (ROV).
 
-### National Geographic
+### SC Geographic Alliance & National Geographic Education
 Magellan Mini-Grant: Apr 2015 - Dec 2016
-> Developed and led an inter-disciplinary team to research geographic education & spatial thinking.
+> Research on geographic education & spatial thinking.
 
 ### USC Aquaponics
 Aquaponics Technician: Jan 2015 - Aug 2015
-> Collaborated with a team to construct an aquaponics system for sustainable farming, and researched and designed mechanical solutions to improve the system’s biological efficiency.
+> Collaborated with a team to construct an aquaponics system for sustainable farming, and designed mechanical solutions to improve the system’s biological efficiency.
 
 ### USC Phytoplankton Ecology Research Lab
 Modeling: Sep 2014 - Mar 2016
