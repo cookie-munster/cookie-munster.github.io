@@ -18,7 +18,7 @@ Highlights of my CV are attached below, for more details check my [LinkedIn prof
 School of Geography & the Environment, Worcester College: 2017-2019
 > MPhil in Environmental Change & Management
 
-### University of South Carolina:
+### University of South Carolina
 Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 > B.S. in Geography / Marine Science, Minor in Geophysics
 - Summa Cum Laude
