@@ -1,4 +1,6 @@
 ---
+# cd /mnt/c/Users/joryf/Documents/GitHub/cookie-munster.github.io
+# bundle exec jekyll serve
 title: "Homepage"
 layout: splash
 author_profile: false
