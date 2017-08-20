@@ -84,7 +84,7 @@ author:
   bio              : "Enigmatic and eccentric thinker. Geographer / Oceanographer / GeoScientist."
   location         : "Oxford, UK"
   email            :
-  uri              : "https://joryfleming.com"
+  uri              : "http://www.joryfleming.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -234,6 +234,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  maps:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -248,3 +252,11 @@ defaults:
       comments: false  # true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: maps
+    values:
+      layout: single
+      author_profile: false
+      share: true
