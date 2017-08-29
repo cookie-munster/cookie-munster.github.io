@@ -10,7 +10,7 @@ share: false
 I am a person focused on big ideas, who loves thinking and serving people, causes, and institutions I care about.
 {: .text-left}
 
-Highlights of my CV are attached below, for more details check my [LinkedIn profile](http://linkedin.com/in/joryfleming) or reach out on social media for more.
+Highlights of my CV are attached below, for more details check my [LinkedIn profile](http://linkedin.com/in/joryfleming) or reach out on social media.
 {: .text-left}
 
 {% include toc title="CV" icon="file-text" %}
