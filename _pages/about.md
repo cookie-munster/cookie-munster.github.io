@@ -59,11 +59,11 @@ Magellan Mini-Grant: Apr 2015 - Dec 2016
 > Research on geographic education & spatial thinking.
 
 ### USC Aquaponics
-Aquaponics Technician: Jan 2015 - Aug 2015
+Jan 2015 - Aug 2015
 > Collaborated with a team to construct an aquaponics system for sustainable farming, and designed mechanical solutions to improve the system’s biological efficiency.
 
 ### USC Phytoplankton Ecology Research Lab
-Modeling: Sep 2014 - Mar 2016
+Sep 2014 - Mar 2016
 > Undergraduate research assistant for phytoplankton food web modeling and ecological analysis.
 
 ### USC Beach & Dune Processes Lab
