@@ -10,7 +10,7 @@ This year I applied to the ESRI StoryMaps Competition by creating a mapping proj
 
 {% include figure image_path="/assets/images/gerrymandering_gif.gif" alt="GIF of people across the US and congressional districts" %}
 
-<script src="https://s3.amazonaws.com/infobawards/2017/kz02r2nVJG.js" id="iib-awards-badge"></script>
+<script src="https://infobawards.s3.amazonaws.com/2017/sY4KNmNfUv.js" id="iib-awards-badge" data-project="2480"></script>
 
 The live project will likely be taken down at some point, so I've created a video stepping through the project to preserve it more permanently:
 
