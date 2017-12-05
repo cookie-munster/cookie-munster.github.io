@@ -10,7 +10,7 @@ This year I applied to the ESRI StoryMaps Competition and the Kantar Information
 
 {% include figure image_path="/assets/images/gerrymandering_gif.gif" alt="GIF of people across the US and congressional districts" %}
 
-<script src="https://s3.amazonaws.com/infobawards/2017/wlLyi2xBRZ.js" id="iib-awards-badge" data-project="2480"></script>
+<script src="https://s3.amazonaws.com/infobawards/2017/wlLyi2xBRZ.js" id="iib-awards-badge"></script>
 
 The [live project](http://arcg.is/O4vLe) will likely be taken down at some point, so I've created a video stepping through the project to preserve it more permanently:
 
