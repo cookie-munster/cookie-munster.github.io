@@ -30,7 +30,7 @@ Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 
 ### Congressional Research Service
 Truman Fellow / GIS Analyst: Jun 2017 - Jul 2017
-> Research fellow in the Knowledge Service Group, working to deliver GIS analysis and map products for Congress.
+> Research fellow in the Knowledge Services Group, working to deliver GIS analysis and map products for Congress.
 
 ### NOAA Office for Coastal Management
 Hollings Fellow / Geospatial Scientist: Jun 2016 - Jul 2016
