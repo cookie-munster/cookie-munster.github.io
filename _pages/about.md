@@ -9,7 +9,7 @@ share: false
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
-I am a person focused on big ideas, who loves thinking and serving people, causes, and institutions I care about.
+I am a person focused on big ideas, who loves thinking and serving people, causes, and institutions I care about. I am currently a graduate research student at the Environmental Change Institute at Oxford University. I also write and visualize data on the side.
 {: .text-left}
 
 Highlights of my CV are attached below, for more details check my [LinkedIn profile](http://linkedin.com/in/joryfleming) or reach out on social media.
