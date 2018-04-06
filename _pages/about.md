@@ -74,7 +74,7 @@ Magellan Apprentice Grant: Jun 2014 - May 2017
 
 ## <i class="fa fa-book"></i> | Publications
 <ul>
-<li>Fleming, J. & Mitchell, J. (2017). Effects of Giant Traveling Map Use on Student Spatial Thinking. The Geographical Bulletin, 58 (2): 67-77.</li>
+<li>Fleming, J. & Mitchell, J. (2017). Effects of Giant Traveling Map Use on Student Spatial Thinking. The Geographical Bulletin, 58 (2): 67-77. <a href="https://gammathetaupsilon.org/the-geographical-bulletin/2010s/volume58-2/article1.pdf">(Link)</a></li>
 
 <li>Fleming, J., Schmidt, N., & Cary-Kothera, L. (2016). Visualizing sea level rise to examine the nexus of climate change and socio-economic security. In OCEANS 2016 MTS/IEEE Monterey (pp. 1-8). IEEE. <a href="https://doi.org/10.1109/OCEANS.2016.7761191">DOI: 10.1109/OCEANS.2016.7761191</a> <span class='altmetric-embed' data-badge-type='donut' data-badge-popover="right" data-doi="10.1109/OCEANS.2016.7761191"></span></li>
 
