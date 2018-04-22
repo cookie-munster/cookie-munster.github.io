@@ -12,7 +12,7 @@ share: false
 I am a person focused on big ideas, who loves thinking and serving people, causes, and institutions I care about. I am currently a graduate research student at the Environmental Change Institute at Oxford University. I also write and visualize data on the side.
 {: .text-left}
 
-Highlights of my CV are attached below, for more details check my [LinkedIn profile](http://linkedin.com/in/joryfleming) or reach out on social media.
+Highlights of my CV are attached below, for more details reach out on social media.
 {: .text-left}
 
 {% include toc title="CV" icon="file-text" %}
