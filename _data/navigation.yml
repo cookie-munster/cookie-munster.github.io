@@ -4,8 +4,8 @@ main:
     url: /
   - title: "About Me"
     url: /about/
-  - title: "Blog"
-    url: /blog/
+  - title: "Writing"
+    url: /writing/
   - title: "Map Gallery"
     url: /maps/
   # - title: "Portfolio"
