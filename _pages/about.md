@@ -20,6 +20,7 @@ Highlights of my CV are attached below, for more details reach out on social med
 ### University of Oxford
 School of Geography & the Environment, Worcester College: 2017-2019
 > MPhil in Environmental Change & Management
+- MCR Computer Rep
 
 ### University of South Carolina
 Department of Geography / School of the Earth Ocean & Environment: 2013-2017
@@ -29,6 +30,9 @@ Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 - Graduation with Leadership Distinction in Community Service, Research, and Professional & Civic Engagement
 
 ## <i class="fa fa-briefcase"></i> | Experience
+### Rhodes Artificial Intelligence Lab
+Machine Learning Engineer: Oct 2017 - Present
+> Part of collaborative coding teams working on social problems.
 
 ### Congressional Research Service
 Truman Fellow / GIS Analyst: Jun 2017 - Jul 2017
@@ -51,9 +55,12 @@ GIS Intern: Sep 2013 - Jul 2014
 > Assisted in creating data and maps for clients in development & real estate.
 
 ## <i class="fa fa-flask"></i> | Research
+### Oxford School of Geography & The Environment 
+Jun 2018 - Present
+> Graduate thesis research into cartography and the use of maps for policy by political leaders.
 
 ### USC Biogeography & National Park Service
-Magellan Scholar Research Grant: Apr 2016 - April 2017
+Magellan Scholar Research Grant: Apr 2016 - Apr 2017
 > Biogeography research in Congaree National Park using a remotely operated vehicle (ROV).
 
 ### SC Geographic Alliance & National Geographic Education
