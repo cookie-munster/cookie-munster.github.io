@@ -31,7 +31,8 @@ Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 
 ## <i class="fa fa-briefcase"></i> | Experience
 ### Rhodes Artificial Intelligence Lab
-Machine Learning Engineer: Oct 2017 - Present
+Co-Director: Comms & Logistics: Sep 2018 - Present
+Team Strategy & ML: Oct 2017 - Sep 2018
 > Part of collaborative coding teams working on social problems.
 
 ### Congressional Research Service
@@ -55,7 +56,7 @@ GIS Intern: Sep 2013 - Jul 2014
 > Assisted in creating data and maps for clients in development & real estate.
 
 ## <i class="fa fa-flask"></i> | Research
-### Oxford School of Geography & The Environment 
+### Oxford School of Geography & The Environment
 Jun 2018 - Present
 > Graduate thesis research into cartography and the use of maps for policy by political leaders.
 
