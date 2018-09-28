@@ -31,8 +31,7 @@ Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 
 ## <i class="fa fa-briefcase"></i> | Experience
 ### Rhodes Artificial Intelligence Lab
-Co-Director: Comms & Logistics: Sep 2018 - Present
-Team Strategy & ML: Oct 2017 - Sep 2018
+Co-Director: Comms & Logistics: Sep 2018 - Present ~ Team Strategy & ML: Oct 2017 - Sep 2018
 > Part of collaborative coding teams working on social problems.
 
 ### Congressional Research Service

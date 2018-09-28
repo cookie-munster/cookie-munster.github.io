@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "About Me"
-    url: /about/
+    url: /
   - title: "Writing"
     url: /writing/
   - title: "Map Gallery"
