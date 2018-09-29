@@ -20,6 +20,7 @@ Highlights of my CV are attached below, for more details reach out on social med
 ### University of Oxford
 School of Geography & the Environment: 2017 - Present
 > MPhil in Environmental Change & Management
+
 > Member - Worcester College
 - MCR Computer Rep
 
