@@ -18,8 +18,9 @@ Highlights of my CV are attached below, for more details reach out on social med
 {% include toc title="CV" icon="file-text" %}
 ## <i class="fa fa-university"></i> | Education
 ### University of Oxford
-School of Geography & the Environment, Worcester College: 2017-2019
+School of Geography & the Environment: 2017 - Present
 > MPhil in Environmental Change & Management
+> Member - Worcester College
 - MCR Computer Rep
 
 ### University of South Carolina
