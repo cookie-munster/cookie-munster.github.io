@@ -20,7 +20,7 @@ Highlights of my CV are attached below, for more details reach out on social med
 ### University of Oxford
 School of Geography & the Environment: 2017 - Present
 > MPhil in Environmental Change & Management
-- Foci in Corporate Governance & Natural History Museums
+- Foci in Corporate Governance, Natural History Museums
 
 > Member - Worcester College
 - MCR Computer Rep
@@ -29,7 +29,7 @@ School of Geography & the Environment: 2017 - Present
 Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 > B.S. in Geography / Marine Science, Minor in Geophysics
 - Summa Cum Laude
-- Major Concentration in Marine Policy & Coastal Resource Management / foci in Fisheries, Geology & Physical Environmental Processes
+- Major Concentration in Marine Policy & Coastal Resource Management / foci in Fisheries, Geological Oceanography, Environmental Processes & Management
 - Graduation with Leadership Distinction in Community Service, Research, and Professional & Civic Engagement
 
 ## <i class="fa fa-briefcase"></i> | Experience
