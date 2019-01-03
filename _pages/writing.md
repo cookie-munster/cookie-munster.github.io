@@ -8,6 +8,9 @@ share: false
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ## <i class="fa-newspaper-o"></i> | Media
+<ul>
+<li>Ilan Price, Saul Musker, Maayan Roichman, Jordan Gifford-Moore, Guillaume Sylvain, Jory Fleming, Nithum Thain, Lucas Dixon. (2018). The challenge of identifying subtle forms of toxicity online. <a href="https://medium.com/the-false-positive/the-challenge-of-identifying-subtle-forms-of-toxicity-online-465505b6c4c9?fbclid=IwAR1Qp-yawlShZGYFnDzgfU8q3jLE_pDrEMAMCt9-_8B0181N7AlO8TMhsDc">(Link)</a></li>
+</ul>
 
 ## <i class="fa fa-flask"></i> | Research
 <ul>
