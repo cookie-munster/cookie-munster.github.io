@@ -42,7 +42,7 @@ Truman Fellow / GIS Analyst: Jun 2017 - Jul 2017
 > Research fellow in the Knowledge Services Group, working to deliver GIS analysis and map products for Congress.
 
 ### NOAA Office for Coastal Management
-Hollings Fellow / Geospatial Scientist: Jun 2016 - Jul 2016
+Hollings Fellow / Geospatial Data Scientist: Jun 2016 - Jul 2016
 > Research fellow in marine GIS, working with sea level rise and 3D GIS.  
 
 ### South Carolina Center for Children's Books & Literacy
