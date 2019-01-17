@@ -9,12 +9,14 @@ share: false
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ## <i class="fa-newspaper-o"></i> | Media
 <ul>
-<li>Ilan Price, Saul Musker, Maayan Roichman, Jordan Gifford-Moore, Guillaume Sylvain, Jory Fleming, Nithum Thain, Lucas Dixon. (2018). The challenge of identifying subtle forms of toxicity online. <a href="https://medium.com/the-false-positive/the-challenge-of-identifying-subtle-forms-of-toxicity-online-465505b6c4c9?fbclid=IwAR1Qp-yawlShZGYFnDzgfU8q3jLE_pDrEMAMCt9-_8B0181N7AlO8TMhsDc">(Link)</a></li>
+<li>Jory Fleming, Lucinda Ford, Edward Hornsby. (2019). Diving Deep Into Systems: Increasing Public Leverage in the Deep-sea Mining Conversation. ~ in DSM Observer. <a href="http://dsmobserver.com/2019/01/diving-deep-into-systems-increasing-public-leverage-in-the-deep-sea-mining-conversation/">(Link)</a></li>
+
+<li>Ilan Price, Saul Musker, Maayan Roichman, Jordan Gifford-Moore, Guillaume Sylvain, Jory Fleming, Nithum Thain, Lucas Dixon. (2018). The challenge of identifying subtle forms of toxicity online. ~ in The False Positive. <a href="https://medium.com/the-false-positive/the-challenge-of-identifying-subtle-forms-of-toxicity-online-465505b6c4c9?fbclid=IwAR1Qp-yawlShZGYFnDzgfU8q3jLE_pDrEMAMCt9-_8B0181N7AlO8TMhsDc">(Link)</a></li>
 </ul>
 
 ## <i class="fa fa-flask"></i> | Research
 <ul>
-<li> Fleming, J. Ford, L. & Hornsby, E. (2018) White Paper - Facing the Abyss: The Future of Deep Sea Mining. <a href="https://doi.org/10.6084/m9.figshare.7564976.v1">DOI: 10.6084/m9.figshare.7564976.v1</a> <span class='altmetric-embed' data-badge-type='donut' data-badge-popover="right" data-doi="10.6084/m9.figshare.7564976.v1"></span></li>
+<li> Fleming, J. Ford, L. & Hornsby, E. (2018). White Paper - Facing the Abyss: The Future of Deep Sea Mining. <a href="https://doi.org/10.6084/m9.figshare.7564976.v1">DOI: 10.6084/m9.figshare.7564976.v1</a> <span class='altmetric-embed' data-badge-type='donut' data-badge-popover="right" data-doi="10.6084/m9.figshare.7564976.v1"></span> Associated <a href="https://doi.org/10.6084/m9.figshare.7564988.v1">bibliography</a> and <a href="https://doi.org/10.6084/m9.figshare.7564982.v1">systems map</a></li>
 
 <li>Mitchell, J. & Fleming, J. (2017). Effects of Giant Traveling Map Use on Student Spatial Thinking. The Geographical Bulletin, 58 (2): 67-77. <a href="https://gammathetaupsilon.org/the-geographical-bulletin/2010s/volume58-2/article1.pdf">(Link)</a></li>
 
