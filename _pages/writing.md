@@ -7,7 +7,7 @@ share: false
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-## <i class="fa-newspaper-o"></i> | Media
+## <i class="fa fa-newspaper-o"></i> | Media
 <ul>
 <li>Jory Fleming, Lucinda Ford, Edward Hornsby. (2019). Diving Deep Into Systems: Increasing Public Leverage in the Deep-sea Mining Conversation. ~ in DSM Observer. <a href="http://dsmobserver.com/2019/01/diving-deep-into-systems-increasing-public-leverage-in-the-deep-sea-mining-conversation/">(Link)</a></li>
 
