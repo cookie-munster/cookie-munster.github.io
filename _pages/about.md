@@ -33,10 +33,6 @@ Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 - Graduation with Leadership Distinction in Community Service, Research, and Professional & Civic Engagement
 
 ## <i class="fa fa-briefcase"></i> | Experience
-### Rhodes Artificial Intelligence Lab
-Co-Director: Comms & Logistics: Sep 2018 - Present ~ Team Strategy & ML: Oct 2017 - Sep 2018
-> Part of collaborative coding teams working on social problems.
-
 ### Congressional Research Service
 Truman Fellow / GIS Analyst: Jun 2017 - Jul 2017
 > Research fellow in the Knowledge Services Group, working to deliver GIS analysis and map products for Congress.
@@ -44,10 +40,6 @@ Truman Fellow / GIS Analyst: Jun 2017 - Jul 2017
 ### NOAA Office for Coastal Management
 Hollings Fellow / Geospatial Data Scientist: Jun 2016 - Jul 2016
 > Research fellow in marine GIS, working with sea level rise and 3D GIS.  
-
-### South Carolina Center for Children's Books & Literacy
-Volunteer Mapping: Mar 2015 - Dec 2016
-> Creating maps & analysis to visualize community impact.
 
 ### McEntire Joint National Guard Base
 GIS Technician: Feb 2015 - Aug 2015
@@ -59,28 +51,46 @@ GIS Intern: Sep 2013 - Jul 2014
 
 ## <i class="fa fa-flask"></i> | Research
 ### Oxford School of Geography & The Environment
-Jun 2018 - Present
+MPhil Research: Jun 2018 - Present
 > Graduate thesis research into cartography and the use of maps for policy by political leaders.
 
-### USC Biogeography & National Park Service
+Rhodes Artificial Intelligence Lab: Oct 2017 - Present
+> team research into the intersection of social science, data and AI
+
+### University of South Carolina
+USC Biogeography & National Park Service
 Magellan Scholar Research Grant: Apr 2016 - Apr 2017
 > Biogeography research in Congaree National Park using a remotely operated vehicle (ROV).
 
-### SC Geographic Alliance & National Geographic Education
+SC Geographic Alliance & National Geographic Education
 Magellan Mini-Grant: Apr 2015 - Dec 2016
 > Research on geographic education & spatial thinking.
 
-### USC Aquaponics
+USC Aquaponics
 Jan 2015 - Aug 2015
 > Collaborated with a team to construct an aquaponics system for sustainable farming, and designed mechanical solutions to improve the system’s biological efficiency.
 
-### USC Phytoplankton Ecology Research Lab
+USC Phytoplankton Ecology Research Lab
 Sep 2014 - Mar 2016
 > Undergraduate research assistant for phytoplankton food web modeling and ecological analysis.
 
-### USC Beach & Dune Processes Lab
+USC Beach & Dune Processes Lab
 Magellan Apprentice Grant: Jun 2014 - May 2017
 > Developed statistical analyses for time series data to study instrumentation. Beach-dune system surveying.
+
+Wet Lab Assistant
+Jun 2015 - May 2017
+> monitored and maintained invertebrate and coral tanks
+
+## <i class="fa fa-users"> | Volunteer
+### South Carolina Center for Children's Books & Literacy
+2014 - 2017
+> Children's book reader with Cocky's Reading Express
+> Creating maps & analysis to visualize community impact.
+
+### Students Engaged in Aquatic Sciences
+2015 - 2017
+> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina 
 
 ## <i class="fa fa-trophy"></i> | Awards
 * Information Is Beautiful Award - Rising Star
