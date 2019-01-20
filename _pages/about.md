@@ -20,9 +20,10 @@ Highlights of my CV are attached below, for more details reach out on social med
 ### University of Oxford
 School of Geography & the Environment: 2017 - Present
 > MPhil in Environmental Change & Management
-- Foci in Corporate Governance, Natural History Museums
+- Foci in Corporate Governance, Natural History Museums, Marine Ecosystems Conservation & Management
 
 > Member - Worcester College
+- Chapel Sacristan, Chapel Committee MCR Rep
 - MCR Computer Rep
 
 ### University of South Carolina
@@ -90,7 +91,7 @@ Jun 2015 - May 2017
 
 ### Students Engaged in Aquatic Sciences
 2015 - 2017
-> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina 
+> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina
 
 ## <i class="fa fa-trophy"></i> | Awards
 * Information Is Beautiful Award - Rising Star
