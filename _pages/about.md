@@ -23,7 +23,7 @@ School of Geography & the Environment: 2017 - Present
 - Foci in Corporate Governance, Natural History Museums, Marine Ecosystems Conservation & Management
 
 > Member - Worcester College
-- Chapel Sacristan, Chapel Committee MCR Rep
+- Chapel Sacristan, Chapel Committee MCR Rep, Woodroffe Society
 - MCR Computer Rep
 
 ### University of South Carolina
@@ -92,6 +92,10 @@ Jun 2015 - May 2017
 ### Students Engaged in Aquatic Sciences
 2015 - 2017
 > Education Outreach Coordinator, designing curricula and visiting schools across South Carolina
+
+### Palmetto Animal Assisted Life Services (PAALS)
+2013 - Present
+> Speaking about disabilities to community groups, fundraising and events volunteer. Counselor at the inclusive Summer PAALS camp, book reader with the Reading PAALS program at the public library. Co-Founded Cocky's Canine PAALS, a UofSC student organization that aids PAALS with volunteers and fundraising.
 
 ## <i class="fa fa-trophy"></i> | Awards
 * Information Is Beautiful Award - Rising Star

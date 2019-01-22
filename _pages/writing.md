@@ -7,11 +7,13 @@ share: false
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-## <i class="fa fa-newspaper-o"></i> | Media
+## <i class="fa fa-newspaper-o"></i> | Media & Musings
 <ul>
-<li>Jory Fleming, Lucinda Ford, Edward Hornsby. (2019). Diving Deep Into Systems: Increasing Public Leverage in the Deep-sea Mining Conversation. ~ in DSM Observer. <a href="http://dsmobserver.com/2019/01/diving-deep-into-systems-increasing-public-leverage-in-the-deep-sea-mining-conversation/">(Link)</a></li>
+<li>Jory Fleming, Lucinda Ford, Edward Hornsby. (2019). Diving Deep Into Systems: Increasing Public Leverage in the Deep-sea Mining Conversation. <a href="http://dsmobserver.com/2019/01/diving-deep-into-systems-increasing-public-leverage-in-the-deep-sea-mining-conversation/">~ in DSM Observer.</a></li>
 
-<li>Ilan Price, Saul Musker, Maayan Roichman, Jordan Gifford-Moore, Guillaume Sylvain, Jory Fleming, Nithum Thain, Lucas Dixon. (2018). The challenge of identifying subtle forms of toxicity online. ~ in The False Positive. <a href="https://medium.com/the-false-positive/the-challenge-of-identifying-subtle-forms-of-toxicity-online-465505b6c4c9?fbclid=IwAR1Qp-yawlShZGYFnDzgfU8q3jLE_pDrEMAMCt9-_8B0181N7AlO8TMhsDc">(Link)</a></li>
+<li>Ilan Price, Saul Musker, Maayan Roichman, Jordan Gifford-Moore, Guillaume Sylvain, Jory Fleming, Nithum Thain, Lucas Dixon. (2018). The challenge of identifying subtle forms of toxicity online. <a href="https://medium.com/the-false-positive/the-challenge-of-identifying-subtle-forms-of-toxicity-online-465505b6c4c9?fbclid=IwAR1Qp-yawlShZGYFnDzgfU8q3jLE_pDrEMAMCt9-_8B0181N7AlO8TMhsDc">~ in The False Positive.</a></li>
+
+<li>Jory Fleming. (2015). Letter to the Editor: Carolina Creed is no hollow charter. <a href="https://www.thestate.com/opinion/letters-to-the-editor/article19401645.html">~ in The State.</a></li>
 </ul>
 
 ## <i class="fa fa-flask"></i> | Research
@@ -25,4 +27,11 @@ share: false
 <li>Fleming, J. & Ellis, J. (2016). Exploring Time Series in Aeolian Transport: An Exercise in Data Visualization. MarSci, 16: 8-14. <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtYXJzY2lqb3VybmFsfGd4OjQxZjNjZjE4MGU1MzM5NDk">(Link)</a></li>
 
 <li>Fleming, J. (2015). An Exercise in Sustainability: Designing and Implementing USC's First Aquaponics System. MarSci, 15: 4-5. <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtYXJzY2lqb3VybmFsfGd4OjdhMTM4OTg5YThmMzNkOGY">(Link)</a></li>
+</ul>
+
+## <i class="fa fa-bullhorn"></i> | in the News
+<ul>
+<li> Meet the young American with autism who earned a Rhodes scholarship. <a href="https://www.today.com/video/meet-the-young-american-with-autism-who-earned-a-rhodes-scholarship-1188827203630">- NBC Today</a></li>
+<li>Meet Jory Fleming, the inspiring 22-year-old Rhodes Scholar with autism. <a href="https://www.today.com/news/meet-jory-fleming-inspiring-22-year-old-rhodes-scholar-autism-t106800">- NBC Today</a></li>
+<li>Rhodes Scholar’s Mother Helped Him With Autism Breakthrough. <a href="https://www.wsj.com/articles/rhodes-scholars-mother-helped-him-with-autism-breakthrough-1483404375">~ in The Wall Street Journal.</a></li>
 </ul>
