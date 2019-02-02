@@ -86,12 +86,13 @@ Jun 2015 - May 2017
 ## <i class="fa fa-users"> | Volunteer
 ### South Carolina Center for Children's Books & Literacy
 2014 - 2017
-> Children's book reader with Cocky's Reading Express
+> Children's book reader with Cocky's Reading Express. Visited all corners of the state.
 > Creating maps & analysis to visualize community impact.
+> Activism for children's literacy.
 
 ### Students Engaged in Aquatic Sciences
 2015 - 2017
-> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina
+> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina. Taught all ages, from pre-K to senior. Adapted lessons on marine biology and taxonomy, and developed specialized lessons on climate change, aquaponics, and ichthyology (dissection). Led STEM tours for secondary students. Participated in river monitoring and clean-ups.
 
 ### Palmetto Animal Assisted Life Services (PAALS)
 2013 - Present
@@ -109,3 +110,4 @@ Jun 2015 - May 2017
 ## <i class="fa fa-certificate"></i> | Certifications
 * United States Geospatial Intelligence Foundation Geospatial Intelligence Certification
 * National Geographic Certified Educator
+* Project Learning Tree Certified Facilitator
