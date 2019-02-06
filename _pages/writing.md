@@ -9,6 +9,10 @@ share: false
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ## <i class="fa fa-newspaper-o"></i> | Media & Musings
 <ul>
+<li>Jory Fleming. (2019). How the way scientists share data is changing. <a href="https://researchdata.springernature.com/users/207005-jory-fleming/posts/43797-how-the-way-scientists-share-data-is-changing">~ in Research Data at SpringerNature - Events.</a></li>
+
+<li>Jory Fleming. (2019). How should Findable, Interoperable and Reusable (FAIR) data work in practice? <a href="https://researchdata.springernature.com/users/207005-jory-fleming/posts/43799-how-should-findable-accessible-interoperable-and-reusable-fair-data-work-in-practice">~ in Research Data at SpringerNature - Data Dialogues.</a></li>
+
 <li>Jory Fleming, Lucinda Ford, Edward Hornsby. (2019). Diving Deep Into Systems: Increasing Public Leverage in the Deep-sea Mining Conversation. <a href="http://dsmobserver.com/2019/01/diving-deep-into-systems-increasing-public-leverage-in-the-deep-sea-mining-conversation/">~ in DSM Observer.</a></li>
 
 <li>Ilan Price, Saul Musker, Maayan Roichman, Jordan Gifford-Moore, Guillaume Sylvain, Jory Fleming, Nithum Thain, Lucas Dixon. (2018). The challenge of identifying subtle forms of toxicity online. <a href="https://medium.com/the-false-positive/the-challenge-of-identifying-subtle-forms-of-toxicity-online-465505b6c4c9?fbclid=IwAR1Qp-yawlShZGYFnDzgfU8q3jLE_pDrEMAMCt9-_8B0181N7AlO8TMhsDc">~ in The False Positive.</a></li>
