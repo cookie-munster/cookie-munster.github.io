@@ -35,7 +35,13 @@ share: false
 
 ## <i class="fa fa-bullhorn"></i> | in the News
 <ul>
+<li> Update from Rising Star 2017: Jory Fleming. <a href="https://www.informationisbeautifulawards.com/news/320-checking-in-with-a-former-winner-jory-fleming">- Kantar Information is Beautiful Awards</a></li>
+
 <li> Meet the young American with autism who earned a Rhodes scholarship. <a href="https://www.today.com/video/meet-the-young-american-with-autism-who-earned-a-rhodes-scholarship-1188827203630">- NBC Today</a></li>
+
 <li>Meet Jory Fleming, the inspiring 22-year-old Rhodes Scholar with autism. <a href="https://www.today.com/news/meet-jory-fleming-inspiring-22-year-old-rhodes-scholar-autism-t106800">- NBC Today</a></li>
-<li>Rhodes Scholar’s Mother Helped Him With Autism Breakthrough. <a href="https://www.wsj.com/articles/rhodes-scholars-mother-helped-him-with-autism-breakthrough-1483404375">~ in The Wall Street Journal.</a></li>
+
+<li>Rhodes Scholar’s Mother Helped Him With Autism Breakthrough. <a href="https://www.wsj.com/articles/rhodes-scholars-mother-helped-him-with-autism-breakthrough-1483404375">- The Wall Street Journal</a></li>
+
+<li>Advice from autistic Rhodes Scholar. <a href="https://share.america.gov/autistic-rhodes-scholar-says-stick-your-foot-out/">- ShareAmerica</a></li>
 </ul>
