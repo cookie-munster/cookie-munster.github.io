@@ -34,6 +34,10 @@ Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 - Graduation with Leadership Distinction in Community Service, Research, and Professional & Civic Engagement
 
 ## <i class="fa fa-briefcase"></i> | Experience
+### SpringerNature
+Reporter: Nov 2018
+> Worked with SpringerNature on assignment to cover the Better Science Through Better Data 2018 conference.
+
 ### Congressional Research Service
 Truman Fellow / GIS Analyst: Jun 2017 - Jul 2017
 > Research fellow in the Knowledge Services Group, working to deliver GIS analysis and map products for Congress.
@@ -83,20 +87,45 @@ Wet Lab Assistant
 Jun 2015 - May 2017
 > monitored and maintained invertebrate and coral tanks
 
-## <i class="fa fa-users"> | Volunteer
+## <i class="fa fa-users"> | Volunteerism & Activities
+### Marine Technology Society
+2015 - 2017
+> Helped form a chapter and served as its first chair. Engaged students in building a remotely operated vehicle (ROV) and helped organize campus activities.
+
+### Geography Club
+2014 - 2017
+> Helped restart the geography club and served as co-president. Led efforts to engage the community in geographic education through historical geography field trips, campus outreach, and staffing the South Carolina GeoBee.
+
+### Students Engaged in Aquatic Sciences
+2014 - 2017
+> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina. Taught all ages, from pre-K to senior. Adapted lessons on marine biology and taxonomy, and developed specialized lessons on climate change, aquaponics, and ichthyology (dissection). Led STEM tours for secondary students. Participated in river monitoring and clean-ups.
+
 ### South Carolina Center for Children's Books & Literacy
 2014 - 2017
 > Children's book reader with Cocky's Reading Express. Visited all corners of the state.
 > Creating maps & analysis to visualize community impact.
 > Activism for children's literacy.
 
-### Students Engaged in Aquatic Sciences
-2015 - 2017
-> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina. Taught all ages, from pre-K to senior. Adapted lessons on marine biology and taxonomy, and developed specialized lessons on climate change, aquaponics, and ichthyology (dissection). Led STEM tours for secondary students. Participated in river monitoring and clean-ups.
-
 ### Palmetto Animal Assisted Life Services (PAALS)
 2013 - Present
 > Speaking about disabilities to community groups, fundraising and events volunteer. Counselor at the inclusive Summer PAALS camp, book reader with the Reading PAALS program at the public library. Co-Founded Cocky's Canine PAALS, a UofSC student organization that aids PAALS with volunteers and fundraising.
+
+### Shandon College
+2013 - 2017
+> Helped organize community volunteer outings, participated in a mission trip to Chicago.
+
+## <i class="fa fa-apple"> | Teaching
+### University of Oxford Tutorial Training
+2018 - 2019
+> Trained by the School of Geography and Environment in the Oxford tutorial method. Observed tutorials in geography, economics, & theology.
+
+### U101 Senior Peer Leader
+2016 - 2016
+> Teaching Assistant for a section of EDLP 520: The Teacher as Manager. Developed facilitation while teaching interactive methodologies, group leadership, problem solving, and involvement in the freshman experience. Assisted the U101 Office with recruitment and interviewing of peer leaders.
+
+### U101 Peer Leader
+2015 - 2015
+> Teaching Assistant for a Capstone Scholars section of U101: The Student in the University. Assisted in developing lesson plans, group facilitation, and student engagement outside the classroom. Mentored students and organized class field trips and projects, developing communication, facilitation and other soft skills.
 
 ## <i class="fa fa-trophy"></i> | Awards
 * Information Is Beautiful Award - Rising Star
@@ -111,3 +140,16 @@ Jun 2015 - May 2017
 * United States Geospatial Intelligence Foundation Geospatial Intelligence Certification
 * National Geographic Certified Educator
 * Project Learning Tree Certified Facilitator
+
+## <i class="fa fa-user-plus"> | Skills
+- GIS / Spatial Analysis
+- GEOINT
+- Remote Sensing
+- Cartography
+- Social Science Research Methods
+- Facilitation
+- Data Analytics & Visualization
+- Public Speaking
+- Writing
+- Teaching
+- Coding: Matlab (moderate), Python (basic), Palantir (basic), UNIX (basic), AWS (learning), R (learning)
