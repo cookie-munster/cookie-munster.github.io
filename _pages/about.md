@@ -9,7 +9,7 @@ share: false
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
-I am a person focused on big ideas, who loves thinking and serving people, causes, and institutions I care about. I am currently a graduate research student at the Environmental Change Institute at Oxford University. I also write and visualize data on the side.
+I am a person focused on big ideas, who loves thinking and serving people, causes, and institutions I care about. I am currently a graduate research student at the Environmental Change Institute at Oxford University. I also write and visualize data.
 {: .text-left}
 
 Highlights of my CV are attached below, for more details reach out on social media.
@@ -88,6 +88,10 @@ Jun 2015 - May 2017
 > monitored and maintained invertebrate and coral tanks
 
 ## <i class="fa fa-users"> | Volunteerism & Activities
+### Congaree National Parl
+2015 - 2017
+> Helped lead wilderness canoe tours, front desk and visitor engagement, environmental interpretation ranging from assisting with walks to becoming an owl mascot.
+
 ### Marine Technology Society
 2015 - 2017
 > Helped form a chapter and served as its first chair. Engaged students in building a remotely operated vehicle (ROV) and helped organize campus activities.
@@ -126,6 +130,10 @@ Jun 2015 - May 2017
 ### U101 Peer Leader
 2015 - 2015
 > Teaching Assistant for a Capstone Scholars section of U101: The Student in the University. Assisted in developing lesson plans, group facilitation, and student engagement outside the classroom. Mentored students and organized class field trips and projects, developing communication, facilitation and other soft skills.
+
+### South Carolina Outreach and Informal Educators Summit
+2015 - 2017
+> Connected to my work in STEM outreach and Congaree NP, participated in SCOIES workshops and trainings to develop better teaching methods and engagement strategies.
 
 ## <i class="fa fa-trophy"></i> | Awards
 * Information Is Beautiful Award - Rising Star
