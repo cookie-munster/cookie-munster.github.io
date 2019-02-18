@@ -87,8 +87,8 @@ Wet Lab Assistant
 Jun 2015 - May 2017
 > monitored and maintained invertebrate and coral tanks
 
-## <i class="fa fa-users"> | Volunteerism & Activities
-### Congaree National Parl
+## <i class="fa fa-users"></i> | Volunteerism & Activities
+### Congaree National Park
 2015 - 2017
 > Helped lead wilderness canoe tours, front desk and visitor engagement, environmental interpretation ranging from assisting with walks to becoming an owl mascot.
 
@@ -118,7 +118,7 @@ Jun 2015 - May 2017
 2013 - 2017
 > Helped organize community volunteer outings, participated in a mission trip to Chicago.
 
-## <i class="fa fa-apple"> | Teaching
+## <i class="fa fa-apple"></i> | Teaching
 ### University of Oxford Tutorial Training
 2018 - 2019
 > Trained by the School of Geography and Environment in the Oxford tutorial method. Observed tutorials in geography, economics, & theology.
@@ -149,7 +149,7 @@ Jun 2015 - May 2017
 * National Geographic Certified Educator
 * Project Learning Tree Certified Facilitator
 
-## <i class="fa fa-user-plus"> | Skills
+## <i class="fa fa-user-plus"></i> | Skills
 - GIS / Spatial Analysis
 - GEOINT
 - Remote Sensing
