@@ -138,7 +138,7 @@ Jun 2015 - May 2017
 ## <i class="fa fa-trophy"></i> | Awards
 * Information Is Beautiful Award - Rising Star
 * Rhodes Scholar (South Carolina & Worcester 2017)
-* Harry S. Truman Scholar
+* Harry S. Truman Scholar (South Carolina 2016)
 * Barry M. Goldwater Scholar
 * Udall Honorable Mention
 * National Oceanic & Atmospheric Administration Ernest F. Hollings Scholar
