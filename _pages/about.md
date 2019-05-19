@@ -125,7 +125,7 @@ Jun 2015 - May 2017
 
 ### U101 Senior Peer Leader
 2016 - 2016
-> Teaching Assistant for a section of EDLP 520: The Teacher as Manager. Developed facilitation while teaching interactive methodologies, group leadership, problem solving, and involvement in the freshman experience. Assisted the U101 Office with recruitment and interviewing of peer leaders.
+> Co-Instructor for a section of EDLP 520: The Teacher as Manager. Developed facilitation while teaching interactive methodologies, group leadership, problem solving, and involvement in the freshman experience. Assisted the U101 Office with recruitment and interviewing of teaching assistants.
 
 ### U101 Peer Leader
 2015 - 2015
