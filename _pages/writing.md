@@ -9,6 +9,10 @@ share: false
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ## <i class="fa fa-newspaper-o"></i> | Media & Musings
 <ul>
+<li>Jory Fleming (2019). Article on the Intersection of AI and Religion (title TBA). ~in Church Times (forthcoming).</li>
+
+<li>Jory Fleming. (2019). Trying New Things: One Rule, Many Experiences. ~in Organization for Autism Research - Perspectives (forthcoming).</li>
+
 <li>Jory Fleming. (2019). How the way scientists share data is changing. <a href="https://researchdata.springernature.com/users/207005-jory-fleming/posts/43797-how-the-way-scientists-share-data-is-changing">~ in Research Data at SpringerNature - Events.</a></li>
 
 <li>Jory Fleming. (2019). How should Findable, Interoperable and Reusable (FAIR) data work in practice? <a href="https://researchdata.springernature.com/users/207005-jory-fleming/posts/43799-how-should-findable-accessible-interoperable-and-reusable-fair-data-work-in-practice">~ in Research Data at SpringerNature - Data Dialogues.</a></li>
