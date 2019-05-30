@@ -121,7 +121,7 @@ Jun 2015 - May 2017
 ## <i class="fa fa-apple"></i> | Teaching
 ### University of Oxford Tutorial Training
 2018 - 2019
-> Trained by the School of Geography and Environment in the Oxford tutorial method. Observed tutorials in geography, economics, & theology.
+> Trained by the School of Geography and Environment in the Oxford tutorial method. Observed tutorials in geography, economics, music & theology.
 
 ### U101 Senior Peer Leader
 2016 - 2016
