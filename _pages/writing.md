@@ -11,7 +11,7 @@ share: false
 <ul>
 <li>Jory Fleming (2019). Article on the Intersection of AI and Religion (title TBA). ~in Church Times (forthcoming).</li>
 
-<li>Jory Fleming. (2019). Trying New Things: One Rule, Many Experiences. ~in Organization for Autism Research - Perspectives (forthcoming).</li>
+<li>Jory Fleming. (2019). Trying New Things: One Rule, Many Experiences. <a href="https://researchautism.org/trying-new-things-one-rule-many-experiences/">~in Organization for Autism Research - Perspectives</a>.</li>
 
 <li>Jory Fleming. (2019). How the way scientists share data is changing. <a href="https://researchdata.springernature.com/users/207005-jory-fleming/posts/43797-how-the-way-scientists-share-data-is-changing">~ in Research Data at SpringerNature - Events.</a></li>
 
