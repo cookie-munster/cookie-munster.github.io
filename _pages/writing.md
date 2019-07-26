@@ -1,4 +1,4 @@
----
+﻿---
 title: "Writing"
 layout: single
 author_profile: true
@@ -9,7 +9,7 @@ share: false
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ## <i class="fa fa-newspaper-o"></i> | Media & Musings
 <ul>
-<li>Jory Fleming (2019). Article on the Intersection of AI and Religion (title TBA). ~in Church Times (forthcoming).</li>
+<li>Jory Fleming (2019). Artificial Intelligence: My life among the algorithms. <a href = "https://www.churchtimes.co.uk/articles/2019/26-july/features/features/artificial-intelligence-my-life-among-the-algorithms">~in Church Times.</a></li>
 
 <li>Jory Fleming. (2019). Trying New Things: One Rule, Many Experiences. <a href="https://researchautism.org/trying-new-things-one-rule-many-experiences/">~in Organization for Autism Research - Perspectives</a>.</li>
 
