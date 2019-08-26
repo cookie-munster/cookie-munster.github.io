@@ -34,8 +34,11 @@ Department of Geography / School of the Earth Ocean & Environment: 2013-2017
 - Graduation with Leadership Distinction in Community Service, Research, and Professional & Civic Engagement
 
 ## <i class="fa fa-briefcase"></i> | Experience
-### SpringerNature
-Reporter: Nov 2018
+### Writing Assignments
+Rapporteur for the Environmental Change Institute: Sept 2019
+> Worked as a rapporteur reporting on the Net Zero meeting at the University of Oxford.
+
+Reporter for SpringerNature: Nov 2018
 > Worked with SpringerNature on assignment to cover the Better Science Through Better Data 2018 conference.
 
 ### Congressional Research Service
