@@ -9,6 +9,8 @@ share: false
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ## <i class="fa fa-newspaper-o"></i> | Media & Musings
 <ul>
+<li>Jory Fleming (2019). Policy Briefing Note - What policy developments and financial incentives are required to achieve net zero? <a href = "http://www.netzero.org.uk/briefing-note-10">~in Achieving Net Zero International Meeting.</a></li>
+
 <li>Jory Fleming (2019). Artificial Intelligence: My life among the algorithms. <a href = "https://www.churchtimes.co.uk/articles/2019/26-july/features/features/artificial-intelligence-my-life-among-the-algorithms">~in Church Times.</a></li>
 
 <li>Jory Fleming. (2019). Trying New Things: One Rule, Many Experiences. <a href="https://researchautism.org/trying-new-things-one-rule-many-experiences/">~in Organization for Autism Research - Perspectives</a>.</li>
