@@ -58,12 +58,12 @@ GIS Intern: Sep 2013 - Jul 2014
 > Assisted in creating data and maps for clients in development & real estate.
 
 ## <i class="fa fa-flask"></i> | Research
-### Oxford School of Geography & The Environment
-MPhil Research: Jun 2018 - Present
-> Graduate thesis research into cartography and the use of maps for policy by political leaders.
+### University of Oxford
+Environmental Change Institute MPhil Research: Jun 2018 - Sept 2019
+> Graduate thesis research into cartography, data visualization, and the influence of maps in policy decision making.
 
-Rhodes Artificial Intelligence Lab: Oct 2017 - Present
-> team research into the intersection of social science, data and AI
+Rhodes Artificial Intelligence Lab: Oct 2017 - Sept 2019
+> team research into the intersection of social science, data and AI. 
 
 ### University of South Carolina
 USC Biogeography & National Park Service
@@ -93,7 +93,7 @@ Jun 2015 - May 2017
 ## <i class="fa fa-users"></i> | Volunteerism & Activities
 ### Congaree National Park
 2015 - 2017
-> Helped lead wilderness canoe tours, front desk and visitor engagement, environmental interpretation ranging from assisting with walks to becoming an owl mascot.
+> Helped lead wilderness canoe tours, front desk and visitor engagement, environmental interpretation ranging from assisting with nature walks to becoming an owl mascot.
 
 ### Marine Technology Society
 2015 - 2017
