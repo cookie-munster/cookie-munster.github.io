@@ -18,8 +18,9 @@ Highlights of my CV are attached below, for more details reach out on social med
 {% include toc title="CV" icon="file-text" %}
 ## <i class="fa fa-university"></i> | Education
 ### University of Oxford
-School of Geography & the Environment: 2017 - Present
+School of Geography & the Environment: 2017 - 2019
 > MPhil in Environmental Change & Management
+- Distinction
 - Foci in Corporate Governance, Natural History Museums, Marine Ecosystems Conservation & Management
 
 > Member - Worcester College
@@ -27,7 +28,7 @@ School of Geography & the Environment: 2017 - Present
 - MCR Computer Rep
 
 ### University of South Carolina
-Department of Geography / School of the Earth Ocean & Environment: 2013-2017
+Department of Geography / School of the Earth Ocean & Environment: 2013 - 2017
 > B.S. in Geography / Marine Science, Minor in Geophysics
 - Summa Cum Laude
 - Major Concentration in Marine Policy & Coastal Resource Management / foci in Fisheries, Geological Oceanography, Environmental Processes & Management

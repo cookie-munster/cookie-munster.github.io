@@ -28,7 +28,9 @@ share: false
 
 ## <i class="fa fa-flask"></i> | Research
 <ul>
-<li> Fleming, J. Ford, L. & Hornsby, E. (2018). White Paper - Facing the Abyss: The Future of Deep Sea Mining. <a href="https://doi.org/10.6084/m9.figshare.7564976.v1">DOI: 10.6084/m9.figshare.7564976.v1</a> <span class='altmetric-embed' data-badge-type='donut' data-badge-popover="right" data-doi="10.6084/m9.figshare.7564976"></span> Associated <a href="https://doi.org/10.6084/m9.figshare.7564988.v1">bibliography</a> and <a href="https://doi.org/10.6084/m9.figshare.7564982.v1">systems map</a></li>
+<li>Fleming, J. (2019). MPhil Thesis (distinction) - An Experimental Exploration of the Power of Maps for Social and Environmental Policy Change.</li>
+
+<li>Fleming, J. Ford, L. & Hornsby, E. (2018). White Paper - Facing the Abyss: The Future of Deep Sea Mining. <a href="https://doi.org/10.6084/m9.figshare.7564976.v1">DOI: 10.6084/m9.figshare.7564976.v1</a> <span class='altmetric-embed' data-badge-type='donut' data-badge-popover="right" data-doi="10.6084/m9.figshare.7564976"></span> Associated <a href="https://doi.org/10.6084/m9.figshare.7564988.v1">bibliography</a> and <a href="https://doi.org/10.6084/m9.figshare.7564982.v1">systems map</a></li>
 
 <li>Mitchell, J. & Fleming, J. (2017). Effects of Giant Traveling Map Use on Student Spatial Thinking. The Geographical Bulletin, 58 (2): 67-77. <a href="https://gammathetaupsilon.org/the-geographical-bulletin/2010s/volume58-2/article1.pdf">(Link)</a></li>
 
