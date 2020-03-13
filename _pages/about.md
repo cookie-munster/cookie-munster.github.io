@@ -35,6 +35,10 @@ Department of Geography / School of the Earth Ocean & Environment: 2013 - 2017
 - Graduation with Leadership Distinction in Community Service, Research, and Professional & Civic Engagement
 
 ## <i class="fa fa-briefcase"></i> | Experience
+### Carolinas Integrated Sciences & Assessments 
+Climate Solutions Specialist (Sr. Research Associate): Feb 2020 - Present
+> Climate adaptation & resilience, supporting local stakeholders with climate data & policy.
+
 ### Writing Assignments
 Rapporteur for the Environmental Change Institute: Sept 2019
 > Worked as a rapporteur reporting on the Net Zero meeting at the University of Oxford.
