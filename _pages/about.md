@@ -62,55 +62,14 @@ GIS Technician: Feb 2015 - Aug 2015
 GIS Intern: Sep 2013 - Jul 2014
 > Assisted in creating data and maps for clients in development & real estate.
 
-## <i class="fa fa-flask"></i> | Research
-### University of Oxford
-Environmental Change Institute MPhil Research: Jun 2018 - Sept 2019
-> Graduate thesis research into cartography, data visualization, and the influence of maps in policy decision making.
-
-Rhodes Artificial Intelligence Lab: Oct 2017 - Sept 2019
-> team research into the intersection of social science, data and AI. 
-
-### University of South Carolina
-USC Biogeography & National Park Service
-Magellan Scholar Research Grant: Apr 2016 - Apr 2017
-> Biogeography research in Congaree National Park using a remotely operated vehicle (ROV).
-
-SC Geographic Alliance & National Geographic Education
-Magellan Mini-Grant: Apr 2015 - Dec 2016
-> Research on geographic education & spatial thinking.
-
-USC Aquaponics
-Jan 2015 - Aug 2015
-> Collaborated with a team to construct an aquaponics system for sustainable farming, and designed mechanical solutions to improve the system’s biological efficiency.
-
-USC Phytoplankton Ecology Research Lab
-Sep 2014 - Mar 2016
-> Undergraduate research assistant for phytoplankton food web modeling and ecological analysis.
-
-USC Beach & Dune Processes Lab
-Magellan Apprentice Grant: Jun 2014 - May 2017
-> Developed statistical analyses for time series data to study instrumentation. Beach-dune system surveying.
-
-Wet Lab Assistant
-Jun 2015 - May 2017
-> monitored and maintained invertebrate and coral tanks
-
 ## <i class="fa fa-users"></i> | Volunteerism & Activities
+### Palmetto Animal Assisted Life Services (PAALS)
+2013 - Present
+> Speaking about disabilities to community groups, fundraising and events volunteer. Counselor at the inclusive Summer PAALS camp, book reader with the Reading PAALS program at the public library. Co-Founded Cocky's Canine PAALS, a UofSC student organization that aids PAALS with volunteers and fundraising.
+
 ### Congaree National Park
-2015 - 2017
+2015 - Present
 > Helped lead wilderness canoe tours, front desk and visitor engagement, environmental interpretation ranging from assisting with nature walks to becoming an owl mascot.
-
-### Marine Technology Society
-2015 - 2017
-> Helped form a chapter and served as its first chair. Engaged students in building a remotely operated vehicle (ROV) and helped organize campus activities.
-
-### Geography Club
-2014 - 2017
-> Helped restart the geography club and served as co-president. Led efforts to engage the community in geographic education through historical geography field trips, campus outreach, and staffing the South Carolina GeoBee.
-
-### Students Engaged in Aquatic Sciences
-2014 - 2017
-> Education Outreach Coordinator, designing curricula and visiting schools across South Carolina. Taught all ages, from pre-K to senior. Adapted lessons on marine biology and taxonomy, and developed specialized lessons on climate change, aquaponics, and ichthyology (dissection). Led STEM tours for secondary students. Participated in river monitoring and clean-ups.
 
 ### South Carolina Center for Children's Books & Literacy
 2014 - 2017
@@ -118,13 +77,11 @@ Jun 2015 - May 2017
 > Creating maps & analysis to visualize community impact.
 > Activism for children's literacy.
 
-### Palmetto Animal Assisted Life Services (PAALS)
-2013 - Present
-> Speaking about disabilities to community groups, fundraising and events volunteer. Counselor at the inclusive Summer PAALS camp, book reader with the Reading PAALS program at the public library. Co-Founded Cocky's Canine PAALS, a UofSC student organization that aids PAALS with volunteers and fundraising.
-
-### Shandon College
-2013 - 2017
-> Helped organize community volunteer outings, participated in a mission trip to Chicago.
+### UofSC STEM Education Intiatives
+2014 - 2017
+> Students Engaged in Aquatic Sciences: Education Outreach Coordinator, designing curricula and visiting schools across South Carolina. Taught all ages, from pre-K to senior. Adapted lessons on marine biology and taxonomy, and developed specialized lessons on climate change, aquaponics, and ichthyology (dissection). Led STEM tours for secondary students. Participated in river monitoring and clean-ups.
+> Geography Club: Helped restart the geography club and served as co-president. Led efforts to engage the community in geographic education through historical geography field trips, campus outreach, and staffing the South Carolina GeoBee.
+> Marine Technology Society: Helped form a chapter and served as its first chair. Engaged students in building a remotely operated vehicle (ROV) and helped organize campus activities.
 
 ## <i class="fa fa-apple"></i> | Teaching
 ### University of Oxford Tutorial Training
@@ -132,11 +89,8 @@ Jun 2015 - May 2017
 > Trained by the School of Geography and Environment in the Oxford tutorial method. Observed tutorials in geography, economics, music & theology.
 
 ### U101 Senior Peer Leader
-2016 - 2016
+2015 - 2016
 > Co-Instructor for a section of EDLP 520: The Teacher as Manager. Developed facilitation while teaching interactive methodologies, group leadership, problem solving, and involvement in the freshman experience. Assisted the U101 Office with recruitment and interviewing of teaching assistants.
-
-### U101 Peer Leader
-2015 - 2015
 > Teaching Assistant for a Capstone Scholars section of U101: The Student in the University. Assisted in developing lesson plans, group facilitation, and student engagement outside the classroom. Mentored students and organized class field trips and projects, developing communication, facilitation and other soft skills.
 
 ### South Carolina Outreach and Informal Educators Summit
@@ -168,4 +122,3 @@ Jun 2015 - May 2017
 - Public Speaking
 - Writing
 - Teaching
-- Coding: Matlab (moderate), Python (basic), Palantir (basic), UNIX (basic), AWS (learning), R (learning)
