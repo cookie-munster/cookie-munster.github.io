@@ -73,15 +73,14 @@ GIS Intern: Sep 2013 - Jul 2014
 
 ### South Carolina Center for Children's Books & Literacy
 2014 - 2017
-> Children's book reader with Cocky's Reading Express. Visited all corners of the state.
-> Creating maps & analysis to visualize community impact.
-> Activism for children's literacy.
+> Children's book reader with Cocky's Reading Express. Visited all corners of the state. Creating maps & analysis to visualize community impact. Activism for children's literacy.
 
 ### UofSC STEM Education Intiatives
 2014 - 2017
-> Students Engaged in Aquatic Sciences: Education Outreach Coordinator, designing curricula and visiting schools across South Carolina. Taught all ages, from pre-K to senior. Adapted lessons on marine biology and taxonomy, and developed specialized lessons on climate change, aquaponics, and ichthyology (dissection). Led STEM tours for secondary students. Participated in river monitoring and clean-ups.
-> Geography Club: Helped restart the geography club and served as co-president. Led efforts to engage the community in geographic education through historical geography field trips, campus outreach, and staffing the South Carolina GeoBee.
-> Marine Technology Society: Helped form a chapter and served as its first chair. Engaged students in building a remotely operated vehicle (ROV) and helped organize campus activities.
+>
+- Students Engaged in Aquatic Sciences: Education Outreach Coordinator, designing curricula and visiting schools across South Carolina. Taught all ages, from pre-K to senior. Adapted lessons on marine biology and taxonomy, and developed specialized lessons on climate change, aquaponics, and ichthyology (dissection). Led STEM tours for secondary students. Participated in river monitoring and clean-ups.
+- Geography Club: Helped restart the geography club and served as co-president. Led efforts to engage the community in geographic education through historical geography field trips, campus outreach, and staffing the South Carolina GeoBee.
+- Marine Technology Society: Helped form a chapter and served as its first chair. Engaged students in building a remotely operated vehicle (ROV) and helped organize campus activities.
 
 ## <i class="fa fa-apple"></i> | Teaching
 ### University of Oxford Tutorial Training
@@ -90,8 +89,9 @@ GIS Intern: Sep 2013 - Jul 2014
 
 ### U101 Senior Peer Leader
 2015 - 2016
-> Co-Instructor for a section of EDLP 520: The Teacher as Manager. Developed facilitation while teaching interactive methodologies, group leadership, problem solving, and involvement in the freshman experience. Assisted the U101 Office with recruitment and interviewing of teaching assistants.
-> Teaching Assistant for a Capstone Scholars section of U101: The Student in the University. Assisted in developing lesson plans, group facilitation, and student engagement outside the classroom. Mentored students and organized class field trips and projects, developing communication, facilitation and other soft skills.
+> 
+- Co-Instructor for a section of EDLP 520: The Teacher as Manager. Developed facilitation while teaching interactive methodologies, group leadership, problem solving, and involvement in the freshman experience. Assisted the U101 Office with recruitment and interviewing of teaching assistants.
+- Teaching Assistant for a Capstone Scholars section of U101: The Student in the University. Assisted in developing lesson plans, group facilitation, and student engagement outside the classroom. Mentored students and organized class field trips and projects, developing communication, facilitation and other soft skills.
 
 ### South Carolina Outreach and Informal Educators Summit
 2015 - 2017
