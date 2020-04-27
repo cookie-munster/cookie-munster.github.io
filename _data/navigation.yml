@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Writing"
     url: /writing/
-  - title: "Map Gallery"
-    url: /maps/
+  #- title: "Map Gallery"
+  #  url: /maps/
   # - title: "Portfolio"
   #   url: /portfolio
   # - title: "Sample Posts"
